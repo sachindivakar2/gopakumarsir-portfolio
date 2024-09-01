@@ -13,7 +13,7 @@ const Footer = () => {
                     <Col lg={4}>
                         <div className="me-5">
                             <Link to="#" className="navbar-brand me-lg-4 me-auto">
-                                <img src={Logo} alt="logo" height="30" className="d-inline-block align-top" />
+                                <img src={logo} alt="logo" height="30" className="d-inline-block align-top" />
                             </Link>
                             <p className="mt-4">300 Park Avenue, 12th Floor New York, NY 10022</p>
                             <p className="mb-5">1499 Burwell Heights Road Port Arthur Meadow Nashville, TX 77642</p>
