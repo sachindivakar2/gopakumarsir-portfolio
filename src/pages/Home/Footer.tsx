@@ -2,7 +2,7 @@ import { Col, Container, Row } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
 // images
-import logo from 'assets/images/logo.png';
+import logo from 'assets/images/image.png';
 
 const Footer = () => {
     return (
@@ -27,8 +27,7 @@ const Footer = () => {
                             </li>
                         </ul>
                         <p className="mt-2 fs-14">
-                            {new Date().getFullYear()} © Prompt. All rights reserved. Crafted by{' '}
-                            <a href="https://coderthemes.com/">Coderthemes</a>
+                            {new Date().getFullYear()} © Prompt. All rights reserved. Crafted by{'KodeFreak '}
                         </p>
 
                         <img src={logo} height="30" className="mt-2 mb-4" alt="" />
