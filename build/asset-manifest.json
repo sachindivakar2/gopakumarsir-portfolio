@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/gopakumarsir-portfolio/static/css/main.85a8a1e7.css",
+    "main.js": "/gopakumarsir-portfolio/static/js/main.8be0dc7f.js",
+    "static/js/618.65486bb4.chunk.js": "/gopakumarsir-portfolio/static/js/618.65486bb4.chunk.js",
+    "static/js/787.cd77b125.chunk.js": "/gopakumarsir-portfolio/static/js/787.cd77b125.chunk.js",
+    "static/js/240.075f630c.chunk.js": "/gopakumarsir-portfolio/static/js/240.075f630c.chunk.js",
+    "static/media/dot5.svg": "/gopakumarsir-portfolio/static/media/dot5.2fbfb8d582f048be8898.svg",
+    "static/media/dot2.svg": "/gopakumarsir-portfolio/static/media/dot2.443da29b5a6f89134216.svg",
+    "static/media/image.png": "/gopakumarsir-portfolio/static/media/image.32e0e082a2e9775cba41.png",
+    "static/media/dot3.svg": "/gopakumarsir-portfolio/static/media/dot3.3fe4f8ce3b0b258857ad.svg",
+    "static/media/dot4.svg": "/gopakumarsir-portfolio/static/media/dot4.708a5991837d0e8358c7.svg",
+    "static/media/logo.png": "/gopakumarsir-portfolio/static/media/logo.09120addfd68a935385a.png",
+    "static/media/logo-light.png": "/gopakumarsir-portfolio/static/media/logo-light.245cc8d840a0a0ff40ae.png",
+    "static/media/img-8.jpg": "/gopakumarsir-portfolio/static/media/img-8.c267b43bec8bd66f19b2.jpg",
+    "index.html": "/gopakumarsir-portfolio/index.html",
+    "static/media/dot.svg": "/gopakumarsir-portfolio/static/media/dot.fe040e3ae42bf9de7ee1.svg",
+    "static/media/rounded-square2.svg": "/gopakumarsir-portfolio/static/media/rounded-square2.0fedbe15a9bab536baaa.svg",
+    "static/media/rounded-square.svg": "/gopakumarsir-portfolio/static/media/rounded-square.065b3e8984b2eae7470a.svg",
+    "static/media/x.svg": "/gopakumarsir-portfolio/static/media/x.4a5112b1693d863a5960.svg",
+    "static/media/chevron-left.svg": "/gopakumarsir-portfolio/static/media/chevron-left.376e483979ba3eb67f4c.svg",
+    "static/media/chevron-right.svg": "/gopakumarsir-portfolio/static/media/chevron-right.af1d3bc93d894740dd9e.svg",
+    "main.85a8a1e7.css.map": "/gopakumarsir-portfolio/static/css/main.85a8a1e7.css.map",
+    "main.8be0dc7f.js.map": "/gopakumarsir-portfolio/static/js/main.8be0dc7f.js.map",
+    "618.65486bb4.chunk.js.map": "/gopakumarsir-portfolio/static/js/618.65486bb4.chunk.js.map",
+    "787.cd77b125.chunk.js.map": "/gopakumarsir-portfolio/static/js/787.cd77b125.chunk.js.map",
+    "240.075f630c.chunk.js.map": "/gopakumarsir-portfolio/static/js/240.075f630c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85a8a1e7.css",
+    "static/js/main.8be0dc7f.js"
+  ]
+}
