@@ -119,7 +119,7 @@ const Footer = () => {
                     <Col md={8}>
                         <p className="pb-0 mb-0 text-muted">
                             {new Date().getFullYear()} © Prompt. All rights reserved. Crafted by{' '}
-                            <a href="https://coderthemes.com/">Coderthemes</a>
+                            
                         </p>
                     </Col>
                     <Col md={4} className="text-md-end">

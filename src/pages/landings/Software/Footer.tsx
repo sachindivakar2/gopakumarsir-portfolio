@@ -44,7 +44,7 @@ const Footer = () => {
                         <div className="text-center mt-5">
                             <h5 className="fw-normal">
                                 {new Date().getFullYear()} © Copyright. All rights reserved. Crafted by{' '}
-                                <a href="https://coderthemes.com/">Coderthemes</a>
+                                
                             </h5>
                             <ul className="list-inline mt-4">
                                 <li className="list-inline-item mx-4 mb-3">

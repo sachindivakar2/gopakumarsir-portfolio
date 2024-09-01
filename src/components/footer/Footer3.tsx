@@ -40,7 +40,7 @@ const Footer3 = () => {
                     <Col lg="auto" className="text-lg-end mt-2 mt-lg-0">
                         <p className="fs-14 mb-0">
                             {new Date().getFullYear()} © Prompt. All rights reserved. Crafted by{' '}
-                            <a href="https://coderthemes.com/">Coderthemes</a>
+                            
                         </p>
                     </Col>
                 </Row>

@@ -37,7 +37,7 @@ const Footer = () => {
                         </ul>
                         <p className="mt-2 fs-14">
                             {new Date().getFullYear()} © Prompt. All rights reserved. Crafted by{' '}
-                            <a href="https://coderthemes.com/">Coderthemes</a>
+                            
                         </p>
                         <img src={logo} height="30" className="mt-2 mb-4" alt="" />
                     </Col>
