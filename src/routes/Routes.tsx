@@ -5,7 +5,7 @@ import AllRoutes from '.';
 
 const Routes = () => {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/gopakumarsir-portfolio">
             <AllRoutes />
         </BrowserRouter>
     );
