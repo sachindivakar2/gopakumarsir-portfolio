@@ -3,7 +3,7 @@ import { Col, Container, Row } from 'react-bootstrap';
 import FeatherIcon from 'feather-icons-react';
 
 // imgaes
-import logo from 'assets/images/logo.png';
+import logo from 'assets/images/image.png';
 
 const Footer2 = () => {
     return (

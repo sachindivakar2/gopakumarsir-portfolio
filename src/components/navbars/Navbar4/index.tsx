@@ -10,7 +10,7 @@ import ProfileDropdown from './ProfileDropdown';
 import { notifications, profileOptions } from './data';
 
 // images
-import logo from 'assets/images/logo.png';
+import logo from 'assets/images/image.png';
 import logoLight from 'assets/images/logo-light.png';
 
 type Navbar4Props = {

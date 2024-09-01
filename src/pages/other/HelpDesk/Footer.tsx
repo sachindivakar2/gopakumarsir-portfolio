@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import FeatherIcon from 'feather-icons-react';
 
 // imgaes
-import logo from 'assets/images/logo.png';
+import logo from 'assets/images/image.png';
 
 const Footer = () => {
     return (
